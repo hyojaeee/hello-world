@@ -1,3 +1,3 @@
 # hello-world
 
-practice commit messages
+SQL practice with fake ecommerce data
